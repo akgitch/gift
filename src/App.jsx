@@ -4,7 +4,7 @@ import { ArrowDown, ArrowLeft, ArrowRight, Heart, Music2, Pause, Play, Volume2, 
 import { birthdayConfig as config } from './data/birthdayConfig.js';
 import { Reveal, SectionTitle, Stars } from './components/Primitives.jsx';
 
-const letter = `Dear You,\n\nSome people enter our lives quietly,\nand somehow they become the loudest part of our hearts.\n\nYou became one of the most beautiful chapters of my life.\n\nI don't know what the future has planned for us,\nbut I know that every moment with you\nhas become something I want to remember.\n\nOn your birthday,\nI just want you to know...\n\nYou are loved.\nYou are appreciated.\nAnd you are incredibly special to me.\n\nHappy Birthday, my love. ♥`;
+const letter = `Dear You,\n\nSome people enter our lives quietly,\nand somehow they become the loudest part of our hearts.\n\nYou became one of the most beautiful chapters of my life.\n\nI know your future will be bright,\nand every moment with you is something I want to remember.\n\nOn your birthday,\nI hope you receive all the happiness you deserve,\nand that all your wishes come true very soon.\n\nYou are loved.\nYou are appreciated.\nAnd you are incredibly special to me.\n\nHappy Birthday, my love. ♥`;
 const qualities = [
   ['Your smile', 'It has a way of making everything feel a little lighter.'],
   ['Your kindness', 'The softness you give the world says everything about you.'],
