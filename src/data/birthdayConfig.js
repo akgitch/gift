@@ -1,7 +1,7 @@
 // Make this story yours: replace the sample name, photos, captions, and song below.
 export const birthdayConfig = {
-  girlfriendName: "HER NAME",
-  nickname: "MY LOVE",
+  girlfriendName: "PROGNYA DAS",
+  nickname: "CHATIM",
   relationshipDate: "A day worth remembering",
   birthdayMessage: "Today isn't just your birthday... it's a celebration of the person who made my world a little more beautiful.",
   songTitle: "OUR SONG",
